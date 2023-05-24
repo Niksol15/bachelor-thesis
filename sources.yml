@@ -1,0 +1,50 @@
+EdDSA:
+  type: Article
+  title: High-speed high-security signatures
+  author: [Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe, Bo-Yin Yang]
+  date: 2011-09-26
+  url: https://ed25519.cr.yp.to/ed25519-20110926.pdf
+
+DH:
+  type: Article
+  title: New directions in cryptography
+  author: [W. Diffie, M. E Hellman] 
+  date: 1976
+  url: https://ee.stanford.edu/~hellman/publications/24.pdf
+
+RSA:
+  type: Article
+  title: A method for obtaining digital signatures and public-key cryptosystems
+  author: [R. L. Rivest, A. Shamir, L. Adleman]
+  date: 1985
+  url: https://people.csail.mit.edu/rivest/Rsapaper.pdf
+
+ElGamal:
+  type: Article
+  title:  Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms
+  author: TAHER ELGAMAL
+  url: https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf
+
+GNFS:
+  type: Article
+  title: The development of the number field sieve
+  author: [Arjen K. Lenstra, H. W. Lenstra]
+  
+KeySizeRec:
+  type: Article
+  title: "Recommendation for key management. Part 3: Application-specific key management guidance"
+  author: [E. Barker, Q.Dang]
+  url: http://dx.doi.org/10.6028/NIST.SP.800-57pt3r1
+
+BonehShoup:
+  type: Book
+  title: A Graduate Course in Applied Cryptography
+  author: [Dan Boneh, Victor Shoup]
+  date: 2023
+  url: http://toc.cryptobook.us/book.pdf 
+
+MathCrypto:
+  type: Book
+  title: An Introduction to Mathimatical Cryptography
+  author: [Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman]
+  date: 2014
