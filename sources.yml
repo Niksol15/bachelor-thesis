@@ -48,3 +48,21 @@ MathCrypto:
   title: An Introduction to Mathimatical Cryptography
   author: [Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman]
   date: 2014
+
+Schoof:
+  type: Article
+  title: Elliptic curves over finite fields and the computation of square roots mod p
+  author: R. Schoof. 
+  date: 1985
+
+SEA:
+  type: Article
+  title: Counting Points on Elliptic Curves over Finite Fields
+  author: R. Schoof. 
+  date: 1995
+
+ECNTC:
+  type: Book
+  title: "Elliptic Curves: Number Theory and Cryptography"
+  author: Lawrence C. Washington
+  date: 2008
