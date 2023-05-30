@@ -66,3 +66,14 @@ ECNTC:
   title: "Elliptic Curves: Number Theory and Cryptography"
   author: Lawrence C. Washington
   date: 2008
+
+MontLadder:
+  type: Article
+  title: Montgomery curves and the Montgomery ladder
+  author: [Daniel J. Bernstein, Tanja Lange]
+  url: https://eprint.iacr.org/2017/293.pdf
+
+KeyCmpImg:
+  type: Site
+  title: What is ECC and why would I want to use it?
+  url: https://www.globalsign.com/en/blog/elliptic-curve-cryptography
