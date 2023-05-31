@@ -109,3 +109,27 @@ FrayRuck:
   title: The Tate pairing and the discrete logarithm applied to elliptic curve cryptosystems
   author: [G. Frey, M. Müller, H.-G. Rück]
   date: 1999
+
+ECFact:
+  type: Article
+  author: H. W. Lenstra
+  title: Factoring integers with elliptic curves
+  date: 1987
+
+ECFactComplexity:
+  type: Presentation
+  title: Lenstra’s Elliptic Curve Factorization Method
+  author: Leo Lai
+  date: 2016 
+  url: https://web.ma.utexas.edu/users/sl55444/CompsciTalk.pdf
+
+AlgStructCrypto:
+  type: Book
+  author: Маринич Олександр Вiталiйович
+  article: Алгебраїчнi структури, криптографiя та захист iнформацiї
+  date: 2017
+
+PrimeRank:
+  type: Site
+  url: https://t5k.org/top20/page.php?id=27
+
