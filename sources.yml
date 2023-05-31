@@ -77,3 +77,35 @@ KeyCmpImg:
   type: Site
   title: What is ECC and why would I want to use it?
   url: https://www.globalsign.com/en/blog/elliptic-curve-cryptography
+
+MillerAlgo:
+  type: Article
+  title: "The Weil pairing, and its efficient calculation"
+  author: V.S. Miller
+  date: 2004
+
+KoblitzOverP:
+  type: Article
+  title: A Note on Koblitz Curves over Prime Fields
+  author: [Han Wu, Guangwu Xu]
+  date: 2020
+  url: https://eprint.iacr.org/2020/1136.pdf
+
+PohligHellman:
+  type: Article
+  title: An Improved Algorithm for Computing Logarithms over GF(p) and its Cryptographic Significance
+  author: [S. Pohlig, M. Hellman] 
+  date: 1978
+  url: https://ee.stanford.edu/~hellman/publications/28.pdf
+
+MOV:
+  type: Article
+  title: Reducing elliptic curve logarithms to logarithms in a finite field
+  author: [A. J. Menezes, T. Okamoto, S. A. Vanstone]
+  date: 1993
+
+FrayRuck:
+  type: Article
+  title: The Tate pairing and the discrete logarithm applied to elliptic curve cryptosystems
+  author: [G. Frey, M. Müller, H.-G. Rück]
+  date: 1999
