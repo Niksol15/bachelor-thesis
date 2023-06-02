@@ -22,7 +22,7 @@ RSA:
 ElGamal:
   type: Article
   title:  Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms
-  author: TAHER ELGAMAL
+  author: Taher ElGamal
   url: https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf
 
 GNFS:
@@ -123,12 +123,6 @@ ECFactComplexity:
   date: 2016 
   url: https://web.ma.utexas.edu/users/sl55444/CompsciTalk.pdf
 
-AlgStructCrypto:
-  type: Book
-  author: Маринич Олександр Вiталiйович
-  title: Алгебраїчнi структури, криптографiя та захист iнформацiї
-  date: 2017
-
 PrimeRank:
   type: Documentation
   title: Elliptic Curve Primality Proof Rank
@@ -193,3 +187,8 @@ libsecp256k1:
   type: Documentation
   title: libsecp256k1
   url: https://github.com/bitcoin-core/secp256k1
+
+ExclusiveOwnership:
+  type: Documentation
+  title: A collection of common (interesting) cryptographic mistakes and learning resources.
+  url: https://gotchas.salusa.dev/
