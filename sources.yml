@@ -126,10 +126,70 @@ ECFactComplexity:
 AlgStructCrypto:
   type: Book
   author: Маринич Олександр Вiталiйович
-  article: Алгебраїчнi структури, криптографiя та захист iнформацiї
+  title: Алгебраїчнi структури, криптографiя та захист iнформацiї
   date: 2017
 
 PrimeRank:
-  type: Site
+  type: Documentation
+  title: Elliptic Curve Primality Proof Rank
   url: https://t5k.org/top20/page.php?id=27
 
+AVX:
+  type: Documentation
+  title: "Intel® Intrinsics Guide AVX"
+  url: https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html#techs=AVX_ALL 
+
+OpenSSL:
+  type: Documentation
+  title: OpenSSL
+  url: https://www.openssl.org/
+
+ECCPP:
+  title: Implementation of Library
+  url: https://github.com/Niksol15/eccpp
+
+WCAL:
+  title: Complete addition formulas for prime order elliptic curves
+  author: [oost Renes, Craig Costello, Lejla Batina]
+  url: https://eprint.iacr.org/2015/1060
+  date: 2015
+
+SEC1:
+  type: Article
+  title: "SEC 1: Elliptic Curve Cryptography"
+  author: Certicom Research
+  date: 2009
+  url: https://www.secg.org/sec1-v2.pdf  
+
+SEC2:
+  type: Article
+  title: "SEC 2: Recommended Elliptic Curve Domain Parameters"
+  date: 2010
+  author: Certicom Research
+  url: https://www.secg.org/sec2-v2.pdf
+
+Curve25519:
+  type: Article
+  title: "Curve25519: new Diffie-Hellman speed records"
+  author: D. J. Bernstein
+  date: 2006
+
+bn256:
+  type: Article
+  title: New software speed records for cryptographic pairings
+  author: [Michael Naehrig, Ruben Niederhagen, Peter Schwabe]
+
+libsodium:
+ type: Documentation
+ title: libsodium
+ url: https://doc.libsodium.org/
+
+Monero:
+  type: Documentation
+  title: Monero
+  url: https://www.getmonero.org/
+
+libsecp256k1:
+  type: Documentation
+  title: libsecp256k1
+  url: https://github.com/bitcoin-core/secp256k1
